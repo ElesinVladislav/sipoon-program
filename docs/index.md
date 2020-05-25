@@ -2,9 +2,9 @@
 
 ## Меню
 
-- [Описание правил игры](/sippoon-program/a/)
-- [Скачать](/sippoon-program/b/)
-- [Об арканоиде](/sippoon-program/c/)
+- [Описание правил игры](/sippoon-program/A/)
+- [Скачать](/sippoon-program/B/)
+- [Об арканоиде](/sippoon-program/C/)
 
 ## Лицензионный договор
 
